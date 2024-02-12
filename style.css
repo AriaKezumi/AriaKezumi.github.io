@@ -1,0 +1,11 @@
+
+body {
+    background-image: url(karolina.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    .shadowed-text {
+        text-shadow: 2px 2px 4px rgba(255, 253, 253, 0.836);
+    }
+}
